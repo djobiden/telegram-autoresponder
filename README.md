@@ -3,10 +3,11 @@
 
 ### Installation 
 ```
-None
+git clone https://github.com/djobiden/telegram-autoresponder.git
 ```
 
-### cfg.json
+### setup-file
+> cfg.json
 ```
 {
   "api_id": "your_api_id",
