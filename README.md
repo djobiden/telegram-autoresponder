@@ -3,7 +3,7 @@
 
 ### Installation 
 ```
-None
+git clone https://github.com/djobiden/telegram-autoresponder.git
 ```
 
 ### setup-file
