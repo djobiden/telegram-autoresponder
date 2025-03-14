@@ -1,18 +1,19 @@
-# autoresponder for Telegram
+# Autoresponder for Telegram
 ## Simple autoresponder for Telegram 
 
 ### Installation 
 ```
-git clone https://github.com/djobiden/telegram-autoresponder.git
+None
 ```
 
 ### setup-file
 > cfg.json
 ```
 {
-  "api_id": "your_api_id",
-  "api_hash": "your_api_hash",
-  "name": "bot_name",
-  "message": "messages to reply"
+  "api_id": "", // api_id
+  "api_hash": "", // api_hash
+  "name": "bot_name", // your bot name
+  "message": "**Autoreply**\nHello! My owner is currently busy. Please wait for their response. All the best!", // message reply to users 
+  "TIMEOUT":  600 // IN SECONDS RECOMENDED 600 SECONDS
 }
 ```
